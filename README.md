@@ -105,3 +105,8 @@ Nasci em Salinas – MG e fui criado em Paulínia – SP. Trabalho com framework
 />
 
 ***
+
+### 👨🏼‍💻 Contatos
+
+📥 **`E-mail: lnmarcon@tutanota.de`**  
+🔗 **`Linkedin: https://linkedin.com/in/jvmrcl`**

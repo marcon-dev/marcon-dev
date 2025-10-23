@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software Frontend`**
 
-Nasci em Salinas – MG e fui criado em Paulínia – SP. Trabalho com frameworks como React e Vue, além de possuir conhecimento em bibliotecas como jQuery e KnockoutJS. Tenho conhecimento em pré-processadores como Stylus, LESS/SCSS, além de experiência com bibliotecas como Tailwind, Bootstrap, UIKit e Milligram. Tenho familiaridade com Node.js e Deno para desenvolver aplicações fullstack.
+Nasci em Salinas – MG e fui criado em Paulínia – SP. Sou desenvolvedor front-end autodidata há mais de 3 anos, especializado na criação de aplicativos web minimalistas, acessíveis e de alto desempenho com React, Solid.js e Tailwind.
 
 ***
 
